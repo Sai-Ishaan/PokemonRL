@@ -2,4 +2,4 @@
 \venv
 venv/Include/site/python3.10/pygame/_blit_info.h
 .vscode
-.\pokemon-showdown
+\pokemon-showdown
